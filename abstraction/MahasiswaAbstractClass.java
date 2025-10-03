@@ -19,7 +19,7 @@ class MahasiswaS1 extends Mahasiswa {
     }
 }
 
-public class MahasiswaAbstract {
+public class MahasiswaAbstractClass {
     public static void main(String[] args) {
         Mahasiswa mhs = new MahasiswaS1("Tita");
         mhs.belajar();
