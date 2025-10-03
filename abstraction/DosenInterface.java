@@ -17,7 +17,7 @@ class DosenTetap implements Dosen {
 
 public class DosenInterface {
     public static void main(String[] args) {
-        Dosen dosen = new DosenTetap("Pak Fachrul Pralienka Bani Muhamad, M.Kom.");
+        Dosen dosen = new DosenTetap("bapak Fachrul Pralienka Bani Muhamad, M.Kom.");
         dosen.mengajar();
     }
 }
